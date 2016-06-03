@@ -1,7 +1,7 @@
 name: GRAINBESPOKE
 favicon: null
-layout_spectrum: 0.260004467330873
-typography_spectrum: 0.7330413311719894
+layout_spectrum: 0.18716
+typography_spectrum: 0.55669
 title: GRAIN BESPOKE
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.642563165165484
-  lightness: 0.6101477628108114
-  saturation: 0.9638221103232354
-  rhythmicContrast: 0.8678949277382344
+    - '#0e121b'
+    - '#222c38'
+    - '#34404e'
+    - '#4b5767'
+    - '#636f7f'
+  brandStrength: 0.6875
+  lightness: 0.625
+  saturation: 1
+  rhythmicContrast: 0.5
 purpose: []
